@@ -12,3 +12,4 @@ pub mod deribit;
 pub mod gateio;
 pub mod kucoin;
 pub mod okx;
+pub mod upbit;
